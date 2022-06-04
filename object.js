@@ -14,3 +14,31 @@ delete student1.attendence; //use (delete) keyword to dele e a specific property
 console.log(student1.attendence) //undefine 
 console.log("class" in student1); //true //The in operator returns true if the specified property exists. 
 console.log("attendence" in student1) //false // returns false if the specified property does'nt exists.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
